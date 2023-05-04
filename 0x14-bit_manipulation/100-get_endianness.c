@@ -10,5 +10,3 @@ int get_endianness(void)
 	char *b = (char *)&a;
 
 	
-	
-
